@@ -30,12 +30,10 @@ Coming soon...
 ## 🎯 Purpose
 This portfolio is built to present my development journey, highlight my projects, and create a strong online presence for internships and job opportunities.
 
-## 📷 Screenshots
-(Add screenshots of your website here)
 
 ## 📬 Contact
-- GitHub: https://github.com/your-username  
-- Email: your-email@example.com  
+- GitHub: https://github.com/hrushithaa-ai/  
+- Email: sree.kadali0604@example.com  
 
 ## ⭐ Note
 This project is continuously improving as I learn new technologies.
