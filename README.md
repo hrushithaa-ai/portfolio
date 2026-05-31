@@ -51,7 +51,7 @@ This portfolio is built to present my development journey, highlight my projects
 
 ## 📬 Contact
 - GitHub: https://github.com/hrushithaa-ai/  
-- Email: sree.kadali0604@example.com  
+- Email: sree.kadali0604@gmail.com  
 
 ## ⭐ Note
 This project is continuously improving as I learn new technologies.
